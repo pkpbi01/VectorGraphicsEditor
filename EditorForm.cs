@@ -18,6 +18,7 @@ namespace VectorGraphicsEditor
         Image image;
         Point point;
         bool mouseDown;
+        int ololo;
 
 
         public EditorForm()
@@ -57,6 +58,11 @@ namespace VectorGraphicsEditor
         private void pictureBox1_MouseUp(object sender, MouseEventArgs e)
         {
             mouseDown = false;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -8,3 +8,13 @@ D:\vs\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.csproj.CoreCompileInpu
 D:\vs\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.exe
 D:\vs\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.pdb
 D:\vs\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.EditorForm.resources
+C:\Users\ПК\Desktop\DevEd\VectorGraphicsEditor\VectorGraphicsEditor\bin\Debug\VectorGraphicsEditor.exe.config
+C:\Users\ПК\Desktop\DevEd\VectorGraphicsEditor\VectorGraphicsEditor\bin\Debug\VectorGraphicsEditor.exe
+C:\Users\ПК\Desktop\DevEd\VectorGraphicsEditor\VectorGraphicsEditor\bin\Debug\VectorGraphicsEditor.pdb
+C:\Users\ПК\Desktop\DevEd\VectorGraphicsEditor\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\DevEd\VectorGraphicsEditor\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.EditorForm.resources
+C:\Users\ПК\Desktop\DevEd\VectorGraphicsEditor\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.Properties.Resources.resources
+C:\Users\ПК\Desktop\DevEd\VectorGraphicsEditor\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\DevEd\VectorGraphicsEditor\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\DevEd\VectorGraphicsEditor\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.exe
+C:\Users\ПК\Desktop\DevEd\VectorGraphicsEditor\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.pdb
