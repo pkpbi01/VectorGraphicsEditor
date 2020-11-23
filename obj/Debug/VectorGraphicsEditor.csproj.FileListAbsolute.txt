@@ -2,9 +2,9 @@ D:\vs\VectorGraphicsEditor\bin\Debug\VectorGraphicsEditor.exe.config
 D:\vs\VectorGraphicsEditor\bin\Debug\VectorGraphicsEditor.exe
 D:\vs\VectorGraphicsEditor\bin\Debug\VectorGraphicsEditor.pdb
 D:\vs\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.csprojAssemblyReference.cache
-D:\vs\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.Form1.resources
 D:\vs\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.Properties.Resources.resources
 D:\vs\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.csproj.GenerateResource.cache
 D:\vs\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.csproj.CoreCompileInputs.cache
 D:\vs\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.exe
 D:\vs\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.pdb
+D:\vs\VectorGraphicsEditor\obj\Debug\VectorGraphicsEditor.EditorForm.resources
