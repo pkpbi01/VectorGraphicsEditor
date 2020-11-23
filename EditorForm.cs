@@ -19,6 +19,14 @@ namespace VectorGraphicsEditor
         Point point;
         bool mouseDown;
         int ololo;
+<<<<<<< Updated upstream
+        int t;
+=======
+<<<<<<< Updated upstream
+=======
+        int ololow;
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 
 
         public EditorForm()
