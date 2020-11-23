@@ -19,6 +19,7 @@ namespace VectorGraphicsEditor
         Point point;
         bool mouseDown;
         int ololo;
+        int t;
 
 
         public EditorForm()
